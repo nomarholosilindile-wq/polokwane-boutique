@@ -1,0 +1,6 @@
+{
+  "name": "Polokwane Boutique",
+  "description": "Premium luxury menswear boutique specializing in tailored suits and formal wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
